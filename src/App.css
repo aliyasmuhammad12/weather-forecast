@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+
+.card{
+ border-radius: 20px;
+  padding: 10px;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.input-field{
+  border-radius: 10px;
+  border: 0px;
+  outline: none;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  font-size: 25px;
+  padding: 10px;
+  margin: 10px;
+}
+.btn{
+  padding: 10px 20px;
+  border-radius: 10px;
+  margin: 5px;
+border: 0;
+  cursor: pointer;
+}
